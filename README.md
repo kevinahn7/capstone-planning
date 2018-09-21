@@ -18,3 +18,11 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 
 Styling to get the look and feel of the actual YouTube site
 Responsive
+
+
+Clone of Youtube
+![Screenshot of Youtube](assets/capstone-visual.PNG)
+
+
+Component Diagram
+![Alt text](assets/youtube-diagram.png)
