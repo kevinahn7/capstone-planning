@@ -1,28 +1,30 @@
-Name of Student: Kevin Ahn
+# YouTube Clone
 
-Name of Project: YouTube Clone
+#### By Kevin Ahn
 
-Project’s Purpose or Goal: An app where users can watch YouTube videos
+#### Project’s Purpose or Goal: An app where users can watch YouTube videos
 
-List the absolute minimum features the project requires to meet this purpose or goal:
+#### List the absolute minimum features the project requires to meet this purpose or goal:
 
-Users can watch videos
-Users can search for videos
-Users can log in to their own YouTube account
-What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and yourlanguage) will you use to create this MVP? List them all here. Be specific.
+* Users can watch videos
+* Users can search for videos
+* Users can log in to their own YouTube account
 
-React with Redux
-YouTube API
-JavaScript, HTML and CSS/SCSS
-If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+#### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and yourlanguage) will you use to create this MVP? List them all here. Be specific.
 
-Styling to get the look and feel of the actual YouTube site
-Responsive
+* React with Redux
+* YouTube API
+* JavaScript, HTML and CSS/SCSS
+
+#### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+
+* Styling to get the look and feel of the actual YouTube site
+* Responsive
 
 
-Clone of Youtube
+#### Clone of Youtube
 ![Screenshot of Youtube](assets/capstone-visual.PNG)
 
 
-Component Diagram
+#### Component Diagram
 ![Alt text](assets/youtube-diagram.png)
