@@ -21,6 +21,16 @@
 * Styling to get the look and feel of the actual YouTube site
 * Responsive
 
+#### Link to Static
+This is the repo for the static site
+
+#### State Slices
+* SelectedVideo
+* SearchResults
+* SelectedChannel
+
+#### Where State will be lifted
+State will reside in the app.js file as I will use Redux
 
 #### Clone of Youtube
 ![Screenshot of Youtube](src/assets/capstone-visual.PNG)
