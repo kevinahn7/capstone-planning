@@ -1,8 +1,12 @@
 import React from 'react';
 
+const recommendationsStyle = {
+    gridArea: "recommendations"
+}
+
 const Recommendations = () => {
   return (
-    <div>
+    <div style={recommendationsStyle}>
       Recommendations
     </div>
   )

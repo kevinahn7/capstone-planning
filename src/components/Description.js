@@ -1,8 +1,12 @@
 import React from 'react';
 
+const descriptionStyle = {
+    gridArea: "description"
+}
+
 const Description = () => {
   return (
-    <div>
+    <div style={descriptionStyle}>
       Description
     </div>
   )

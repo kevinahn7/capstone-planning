@@ -1,8 +1,12 @@
 import React from 'react';
 
+const commentsStyle = {
+    gridArea: "comments"
+}
+
 const Comments = () => {
   return (
-    <div>
+    <div style={commentsStyle}>
       Comments
     </div>
   )

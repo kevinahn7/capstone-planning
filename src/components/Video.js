@@ -1,8 +1,12 @@
 import React from 'react';
 
+const videoStyle = {
+    gridArea: "video"
+}
+
 const Video = () => {
   return (
-    <div>
+    <div style={videoStyle}>
       Video
     </div>
   )

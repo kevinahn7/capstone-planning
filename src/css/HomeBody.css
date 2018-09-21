@@ -1,0 +1,10 @@
+.mainBodyStyle {
+    display: grid;
+    grid-template-areas:
+        "video recommendations"
+        "description recommendations"
+        "comments recommendations";
+    grid-template-columns: 60% 40%;
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 10px;
+}

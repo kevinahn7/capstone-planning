@@ -3,16 +3,11 @@ import Video from './Video';
 import Description from './Description';
 import Comments from './Comments';
 import Recommendations from './Recommendations';
-
-const mainBodyStyle = {
-    display: "grid",
-    // gridTemplateArea: "'video recommendations''description reccomendations''comments reccomendations'",
-    gridTemplateColumns: "60% 40%"
-}
+import '../css/HomeBody.css';
 
 const HomeBody = () => {
   return (
-    <div style={mainBodyStyle}>
+    <div className='mainBodyStyle'>
         <Video />
         <Description />
         <Comments />
