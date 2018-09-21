@@ -1,11 +1,12 @@
 .mainBodyStyle {
-    padding: 0 50px;
+    padding: 0 10%;
     display: grid;
     grid-template-areas:
         "video recommendations"
         "description recommendations"
         "comments recommendations";
-    grid-template-columns: 80% 20%;
+    grid-template-columns: 75% 25%;
     grid-template-rows: repeat(3, auto);
-    grid-gap: 10px;
+    grid-gap: 20px;
+    margin-top: 30px;
 }
