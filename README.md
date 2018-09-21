@@ -23,8 +23,8 @@
 
 
 #### Clone of Youtube
-![Screenshot of Youtube](assets/capstone-visual.PNG)
+![Screenshot of Youtube](src/assets/capstone-visual.PNG)
 
 
 #### Component Diagram
-![Alt text](assets/youtube-diagram.png)
+![Alt text](src/assets/youtube-diagram.png)

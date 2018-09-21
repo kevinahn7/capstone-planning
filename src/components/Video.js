@@ -4,10 +4,14 @@ const videoStyle = {
     gridArea: "video"
 }
 
+const playerStyle = {
+    width: "80%"
+}
+
 const Video = () => {
   return (
     <div style={videoStyle}>
-      Video
+      <img src="https://i.ytimg.com/vi/0fjyCfjcLWc/maxresdefault.jpg" style={playerStyle}/>
     </div>
   )
 }

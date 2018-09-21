@@ -7,7 +7,10 @@ const descriptionStyle = {
 const Description = () => {
   return (
     <div style={descriptionStyle}>
-      Description
+      <div>
+          <p>Video Name</p>
+          <p>Video descriptions</p>
+      </div>
     </div>
   )
 }

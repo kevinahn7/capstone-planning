@@ -7,7 +7,7 @@ const recommendationsStyle = {
 const Recommendations = () => {
   return (
     <div style={recommendationsStyle}>
-      Recommendations
+      
     </div>
   )
 }

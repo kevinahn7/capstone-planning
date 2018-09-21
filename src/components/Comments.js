@@ -7,7 +7,8 @@ const commentsStyle = {
 const Comments = () => {
   return (
     <div style={commentsStyle}>
-      Comments
+      <p>User123123</p>
+      <p>OMG that was so funny</p>
     </div>
   )
 }
