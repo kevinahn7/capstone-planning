@@ -23,6 +23,7 @@
 
 #### Link to Static
 This is the repo for the static site
+Also, I have started on the MVP and the link to that repo is here: (https://github.com/kevinahn7/youtube-clone)
 
 #### State Slices
 * SelectedVideo
